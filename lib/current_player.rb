@@ -5,6 +5,7 @@ def turn_count(board)
       space_counter += 1
     end
   end
+  space_counter
 end
 
 def current_player(board)
